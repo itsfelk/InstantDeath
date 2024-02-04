@@ -1,0 +1,13 @@
+name: InstantDeath
+version: '${project.version}'
+main: its.felk.instantdeath.InstantDeath
+api-version: '1.19'
+authors: [ felk ]
+description: A simple plugin that lets you kill yourself with /kill without needing any special permissions
+website: https://myepicwebsite.net
+commands:
+  kill:
+    description: Kill yourself
+    aliases:
+      - suicide
+    usage: /<command>
