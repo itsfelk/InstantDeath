@@ -17,4 +17,4 @@ Instant Death is a simple plugin that allows players to quickly end their own li
 If you have any feature requests or improvements in mind, feel free to reach out on Discord!
 
 ---
-Made with ❤️ by felk | Trans lives matter! :3
+Made with ❤️ by Emilia | Trans lives matter! :3
